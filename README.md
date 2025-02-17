@@ -3,7 +3,7 @@
   <p align="center">
     basic information website using node js.  
     <br />
-    <a href="" target="_blank">Code</a>
+    <a href="https://replit.com/@NotSanta20/basic-info-website" target="_blank">Code</a>
   </p>
 </div>
 <br>
